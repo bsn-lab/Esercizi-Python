@@ -88,9 +88,9 @@
 
 # Esercizio 3. L'abbonamento del bus. Il prezzo dell'abbonamento mensile dipende dall'età:
 
-#sotto i 6 anni: gratis
-#da 6 a 18 anni (18 incluso): 15 €
-#da 19 a 69 anni: 35 €, ma chi è residente in città paga 32 €, e se in più paga con l'app paga 28 €
-#da 70 anni in su: 15 €
+    #sotto i 6 anni: gratis
+    #da 6 a 18 anni (18 incluso): 15 €
+    #da 19 a 69 anni: 35 €, ma chi è residente in città paga 32 €, e se in più paga con l'app paga 28 €
+    #da 70 anni in su: 15 €
 
 #Il programma chiede l'età, se la persona è residente (1 o 0) e se paga con l'app (1 o 2), poi stampa il prezzo.
