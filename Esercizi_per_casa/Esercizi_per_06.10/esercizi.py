@@ -29,17 +29,16 @@
     #'Tempesta' da 90 in su (90 incluso)
 
 # Esercizio 3. Le medaglie del videogioco. Chiedi il punteggio di una partita e stampa:
-#'Nessuna medaglia' sotto 100
-#'Bronzo' da 100 a 299 (100 e 299 inclusi)
-#'Argento' da 300 a 599 (300 e 599 inclusi)
-#'Oro' da 600 in su (600 incluso)
+    #'Nessuna medaglia' sotto 100
+    #'Bronzo' da 100 a 299 (100 e 299 inclusi)
+    #'Argento' da 300 a 599 (300 e 599 inclusi)
+    #'Oro' da 600 in su (600 incluso)
 
 # TIPOLOGIA 4 - IF A CASCATA
 
     #In questi esercizi le regole vanno controllate tutte, una dopo l'altra: possono valere anche tutte insieme.
 
 # Esercizio 1. Una pizzeria calcola il conto di un ordine così. Ogni bibita costa sempre 2 €: questo prezzo non si chiede all'utente, lo scrivi tu nel programma in una variabile.
-
     #1. Conto di base: prezzo di una pizza × numero di pizze, più numero di bibite × 2 €.
     #2. Poi controlla queste tre regole:
         #se ordini 5 pizze o più, hai uno sconto di 5 €;
@@ -49,7 +48,6 @@
 # Il programma deve chiedere il prezzo di una pizza, quante pizze ordini, quante bibite vuoi e se vuoi la consegna (si risponde True o False usando la convenzione 1 o 0). Alla fine stampa il totale.
 
 # Esercizio 2. Il viaggio in treno. Un'agenzia calcola il prezzo di un viaggio in treno per un gruppo così.
-
     #1. Conto di base: prezzo di un biglietto × numero di persone.
     #2. Poi controlla queste tre regole:
         #se viaggiano 4 persone o più, il gruppo ha uno sconto di 10 €;
